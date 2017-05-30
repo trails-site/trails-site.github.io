@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<gpx
+version="1.1" creator="www.GPS-Tracks.com" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns="http://www.topografix.com/GPX/1/1" 
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name><![CDATA[Downloader: 2017-05-05T15:15:20 # 17945 # gpstracks # 212.74.185.21]]></name>
+<desc><![CDATA[Trail d&#39;initiation le renardeau]]></desc>
+<author>
+<name>Christian Steiner</name>
+<email id="info" domain="GPS-Tracks.com"/>
+<link href="http://www.GPS-Tracks.com/29.html">
+<text>GPS-Tracks.com</text>
+</link>
+</author>
+<copyright author="GEO-Tracks GmbH, Seestrasse 5, CH-6330 Cham">
+<license>http://www.GPS-Tracks.com</license>
+</copyright>
+<bounds minlat="46.2932661" minlon="7.0600922" maxlat="46.3002358" maxlon="7.0686744" />
+</metadata>
+
+<trk>
+<name>29-0 Trail_d__39_initiation_le_renardeau</name>
+<extensions>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>ff00ff</color>
+</line>
+<gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"><gpxx:DisplayColor>Magenta</gpxx:DisplayColor></gpxx:TrackExtension>
+</extensions>
+<trkseg>
+<trkpt lat="46.2948201" lon="7.0601183">
+<ele>1296</ele>
+<time>2017-03-31T10:39:33</time>
+</trkpt>
+<trkpt lat="46.2953005" lon="7.061218">
+<ele>1302</ele>
+<time>2017-03-31T10:39:34</time>
+</trkpt>
+<trkpt lat="46.2955812" lon="7.0617741">
+<ele>1305</ele>
+<time>2017-03-31T10:39:35</time>
+</trkpt>
+<trkpt lat="46.2949904" lon="7.0626477">
+<ele>1313</ele>
+<time>2017-03-31T10:39:36</time>
+</trkpt>
+<trkpt lat="46.2944805" lon="7.0635078">
+<ele>1315</ele>
+<time>2017-03-31T10:39:37</time>
+</trkpt>
+<trkpt lat="46.2938976" lon="7.0640569">
+<ele>1329</ele>
+<time>2017-03-31T10:39:38</time>
+</trkpt>
+<trkpt lat="46.2945275" lon="7.0641044">
+<ele>1324</ele>
+<time>2017-03-31T10:39:39</time>
+</trkpt>
+<trkpt lat="46.2941785" lon="7.0646778">
+<ele>1339</ele>
+<time>2017-03-31T10:39:40</time>
+</trkpt>
+<trkpt lat="46.293901" lon="7.065095">
+<ele>1358</ele>
+<time>2017-03-31T10:39:41</time>
+</trkpt>
+<trkpt lat="46.2935792" lon="7.0656942">
+<ele>1376</ele>
+<time>2017-03-31T10:39:42</time>
+</trkpt>
+<trkpt lat="46.2937864" lon="7.0658096">
+<ele>1383</ele>
+<time>2017-03-31T10:39:43</time>
+</trkpt>
+<trkpt lat="46.2932661" lon="7.0662284">
+<ele>1393</ele>
+<time>2017-03-31T10:39:44</time>
+</trkpt>
+<trkpt lat="46.2935987" lon="7.0661742">
+<ele>1404</ele>
+<time>2017-03-31T10:39:45</time>
+</trkpt>
+<trkpt lat="46.2935002" lon="7.0662917">
+<ele>1405</ele>
+<time>2017-03-31T10:39:46</time>
+</trkpt>
+<trkpt lat="46.2936171" lon="7.0662909">
+<ele>1411</ele>
+<time>2017-03-31T10:39:47</time>
+</trkpt>
+<trkpt lat="46.2935551" lon="7.0665898">
+<ele>1417</ele>
+<time>2017-03-31T10:39:48</time>
+</trkpt>
+<trkpt lat="46.2940132" lon="7.0663661">
+<ele>1429</ele>
+<time>2017-03-31T10:39:49</time>
+</trkpt>
+<trkpt lat="46.2942208" lon="7.0665853">
+<ele>1430</ele>
+<time>2017-03-31T10:39:50</time>
+</trkpt>
+<trkpt lat="46.2944746" lon="7.0671675">
+<ele>1446</ele>
+<time>2017-03-31T10:39:51</time>
+</trkpt>
+<trkpt lat="46.2951706" lon="7.068201">
+<ele>1463</ele>
+<time>2017-03-31T10:39:52</time>
+</trkpt>
+<trkpt lat="46.2955225" lon="7.0685101">
+<ele>1467</ele>
+<time>2017-03-31T10:39:53</time>
+</trkpt>
+<trkpt lat="46.2961707" lon="7.0686744">
+<ele>1479</ele>
+<time>2017-03-31T10:39:54</time>
+</trkpt>
+<trkpt lat="46.2968898" lon="7.0684878">
+<ele>1488</ele>
+<time>2017-03-31T10:39:55</time>
+</trkpt>
+<trkpt lat="46.2972222" lon="7.0683687">
+<ele>1488</ele>
+<time>2017-03-31T10:39:56</time>
+</trkpt>
+<trkpt lat="46.2975899" lon="7.0680158">
+<ele>1493</ele>
+<time>2017-03-31T10:39:57</time>
+</trkpt>
+<trkpt lat="46.2978133" lon="7.06756">
+<ele>1495</ele>
+<time>2017-03-31T10:39:58</time>
+</trkpt>
+<trkpt lat="46.2982617" lon="7.0671546">
+<ele>1495</ele>
+<time>2017-03-31T10:39:59</time>
+</trkpt>
+<trkpt lat="46.2989088" lon="7.0669555">
+<ele>1488</ele>
+<time>2017-03-31T10:40:00</time>
+</trkpt>
+<trkpt lat="46.2994031" lon="7.0668354">
+<ele>1469</ele>
+<time>2017-03-31T10:40:01</time>
+</trkpt>
+<trkpt lat="46.2997266" lon="7.0667163">
+<ele>1467</ele>
+<time>2017-03-31T10:40:02</time>
+</trkpt>
+<trkpt lat="46.2998254" lon="7.0666637">
+<ele>1466</ele>
+<time>2017-03-31T10:40:03</time>
+</trkpt>
+<trkpt lat="46.2998339" lon="7.0665339">
+<ele>1461</ele>
+<time>2017-03-31T10:40:04</time>
+</trkpt>
+<trkpt lat="46.3001572" lon="7.066363">
+<ele>1453</ele>
+<time>2017-03-31T10:40:05</time>
+</trkpt>
+<trkpt lat="46.2999317" lon="7.0661568">
+<ele>1447</ele>
+<time>2017-03-31T10:40:06</time>
+</trkpt>
+<trkpt lat="46.3002008" lon="7.0659214">
+<ele>1438</ele>
+<time>2017-03-31T10:40:07</time>
+</trkpt>
+<trkpt lat="46.3000922" lon="7.0657274">
+<ele>1434</ele>
+<time>2017-03-31T10:40:08</time>
+</trkpt>
+<trkpt lat="46.3002358" lon="7.0656486">
+<ele>1430</ele>
+<time>2017-03-31T10:40:09</time>
+</trkpt>
+<trkpt lat="46.2996145" lon="7.0654711">
+<ele>1422</ele>
+<time>2017-03-31T10:40:10</time>
+</trkpt>
+<trkpt lat="46.2993891" lon="7.065291">
+<ele>1414</ele>
+<time>2017-03-31T10:40:11</time>
+</trkpt>
+<trkpt lat="46.2988933" lon="7.0649959">
+<ele>1412</ele>
+<time>2017-03-31T10:40:12</time>
+</trkpt>
+<trkpt lat="46.298569" lon="7.0648553">
+<ele>1407</ele>
+<time>2017-03-31T10:40:13</time>
+</trkpt>
+<trkpt lat="46.2984435" lon="7.064999">
+<ele>1411</ele>
+<time>2017-03-31T10:40:14</time>
+</trkpt>
+<trkpt lat="46.2980113" lon="7.0648592">
+<ele>1406</ele>
+<time>2017-03-31T10:40:15</time>
+</trkpt>
+<trkpt lat="46.2976159" lon="7.0649787">
+<ele>1406</ele>
+<time>2017-03-31T10:40:16</time>
+</trkpt>
+<trkpt lat="46.2973109" lon="7.0652403">
+<ele>1405</ele>
+<time>2017-03-31T10:40:17</time>
+</trkpt>
+<trkpt lat="46.2970064" lon="7.0656707">
+<ele>1404</ele>
+<time>2017-03-31T10:40:18</time>
+</trkpt>
+<trkpt lat="46.2965483" lon="7.0658556">
+<ele>1391</ele>
+<time>2017-03-31T10:40:19</time>
+</trkpt>
+<trkpt lat="46.2962424" lon="7.0658447">
+<ele>1384</ele>
+<time>2017-03-31T10:40:20</time>
+</trkpt>
+<trkpt lat="46.2957833" lon="7.065757">
+<ele>1382</ele>
+<time>2017-03-31T10:40:21</time>
+</trkpt>
+<trkpt lat="46.2953159" lon="7.065851">
+<ele>1372</ele>
+<time>2017-03-31T10:40:22</time>
+</trkpt>
+<trkpt lat="46.2950447" lon="7.0654765">
+<ele>1365</ele>
+<time>2017-03-31T10:40:23</time>
+</trkpt>
+<trkpt lat="46.2945039" lon="7.0651428">
+<ele>1354</ele>
+<time>2017-03-31T10:40:24</time>
+</trkpt>
+<trkpt lat="46.2941972" lon="7.0648854">
+<ele>1348</ele>
+<time>2017-03-31T10:40:25</time>
+</trkpt>
+<trkpt lat="46.2945636" lon="7.0641431">
+<ele>1324</ele>
+<time>2017-03-31T10:40:26</time>
+</trkpt>
+<trkpt lat="46.2939698" lon="7.0641342">
+<ele>1328</ele>
+<time>2017-03-31T10:40:27</time>
+</trkpt>
+<trkpt lat="46.29559" lon="7.0617222">
+<ele>1305</ele>
+<time>2017-03-31T10:40:28</time>
+</trkpt>
+<trkpt lat="46.294838" lon="7.0600922">
+<ele>1296</ele>
+<time>2017-03-31T10:40:29</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
